@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👨🏻‍💻 João Victor Bento
 
-<!--
-**ojoaobento/ojoaobento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Me chamo João Victor, tenho 20 anos e sou do Paraná. Sou um entusiasta apaixonado por tecnologia e venho me dedicando cada vez mais a essa área. Já realizei alguns cursos que despertaram ainda mais meu interesse e ampliaram meu conhecimento. Atualmente, curso Engenharia de Software no Centro Universitário Cidade Verde (UNICV), onde estou aprofundando minhas habilidades e buscando constantemente novos desafios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
