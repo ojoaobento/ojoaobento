@@ -1,6 +1,5 @@
 # 👨🏻‍💻 João Victor Bento
 
-**`Desenvolvedor Backend`**
 
 Me chamo João Victor, tenho 20 anos e sou do Paraná. Sou um entusiasta apaixonado por tecnologia e venho me dedicando cada vez mais a essa área. Já realizei alguns cursos que despertaram ainda mais meu interesse e ampliaram meu conhecimento. Atualmente, curso Engenharia de Software no Centro Universitário Cidade Verde (UNICV), onde estou aprofundando minhas habilidades e buscando constantemente novos desafios.
 
