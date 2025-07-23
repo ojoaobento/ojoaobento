@@ -33,15 +33,22 @@ Olá! Me chamo João Victor, tenho 20 anos e sou do Paraná. Sou um entusiasta p
 
 # Estatísticas 
 
-<p align="center">
+<p>
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=ojoaobento&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=1f6feb" 
-    alt="Estatísticas João Victor" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ojoaobento&show_icons=true&theme=react&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=1F6FEB&border_color=30363D" 
+  alt="Estatísticas GitHub"
   />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaobento&theme=algolia&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=6&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" 
-    alt="Linguagens mais usadas"
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaobento&theme=react&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=6&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=1F6FEB&border_color=30363D" 
+  alt="Linguagens mais usadas" 
   />
+
 </p>
