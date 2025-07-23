@@ -13,7 +13,8 @@ Olá! Me chamo João Victor, tenho 20 anos e sou do Paraná. Sou um entusiasta p
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=c" width="40" title="Linguagem C" style="padding-right:10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
+    width="40" title="Linguagem C" style="padding-right:10px;"
 />
 
 <img 
