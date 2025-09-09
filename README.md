@@ -1,5 +1,3 @@
-# João Victor Bento
-
 
 - João Victor Bento, 20 anos, Paraná
 
@@ -8,8 +6,6 @@
 - Estagiário na Compass UOL
 
 ---
-
-### Linguagens e Tecnologias
 
 <img 
     align="left" 
