@@ -1,9 +1,8 @@
+# João Victor Bento
 
-- João Victor Bento, 20 anos, Paraná
+🎓 Graduando em Engenharia de Software (UNICV)
 
-- Graduando em Engenharia de Software (UNICV)
-
-- Estagiário na Compass UOL
+💼 Estagiário na Compass UOL
 
 ---
 
