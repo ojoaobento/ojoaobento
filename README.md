@@ -1,7 +1,11 @@
 # João Victor Bento
 
 
-Olá! Me chamo João Victor, tenho 20 anos e sou do Paraná. Sou um entusiasta por tecnologia, atualmente graduando em Engenharia de Software no Centro Universitário Cidade Verde (UNICV). Tenho buscado constantemente novos desafios para evoluir minhas habilidades, e já concluí cursos que ampliaram meu conhecimento em programação, dados e infraestrutura.
+- João Victor Bento, 20 anos, Paraná
+
+- Graduando em Engenharia de Software (UNICV)
+
+- Estagiário na Compass UOL
 
 ---
 
