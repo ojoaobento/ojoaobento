@@ -10,66 +10,14 @@ Sou estudante de Engenharia de Software, com foco em desenvolvimento de software
 
 ---
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
-    width="40" title="Linguagem C" style="padding-right:10px;"
-/>
-
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
-    width="40" title="Linguagem C" style="padding-right:10px;"
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
-    width="40" title="Linguagem C" style="padding-right:10px;"
-/>
-
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
-    width="40" title="Linguagem C" style="padding-right:10px;"
-/>
-
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"   width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
-    width="40" title="Linguagem C" style="padding-right:10px;"
-/>
-
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" title="C" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" title="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40"/>
+</div>
 
 <br/>
 <br/>
