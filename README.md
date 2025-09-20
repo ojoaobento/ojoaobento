@@ -1,10 +1,12 @@
 # João Victor Bento
 
-📍 João Victor, 20 anos, Paraná
+Sou estudante de Engenharia de Software, com foco em desenvolvimento de software, infraestrutura em nuvem e gestão de dados. Estou aprimorando meus conhecimentos em C, Java, SQL, Python, PySpark, AWS Cloud, Git e GitHub por meio de projetos pessoais e desafios práticos. 
 
-📘 Estudante de Engenharia de Software (UNICV)
 
-💼 Estagiário na Compass UOL
+* Estudante de Engenharia de Software (UNICV)
+
+* Estagiário na Compass UOL
+
 
 ---
 
@@ -20,12 +22,54 @@
 
 <img 
     align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
+    width="40" title="Linguagem C" style="padding-right:10px;"
+/>
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
+    width="40" title="Linguagem C" style="padding-right:10px;"
+/>
+
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
+    width="40" title="Linguagem C" style="padding-right:10px;"
+/>
+
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
+    width="40" title="Linguagem C" style="padding-right:10px;"
+/>
+
 
 <br/>
 <br/>
