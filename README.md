@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://github.com/ojoaobento">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" style="color:#333333"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="GitHub" width="40" style="color:#333333"/>
   </a>
   <a href="https://www.linkedin.com/in/ojoaobento">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="color:#0077B5"/>
