@@ -31,9 +31,6 @@ Sou estudante de Engenharia de Software na UNICV, com foco em desenvolvimento de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40"/>
 </div>
 
-<br/>
-<br/>
-
 ---
 
 # Estatísticas 
