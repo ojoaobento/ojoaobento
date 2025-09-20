@@ -2,7 +2,14 @@
 
 **Estudante de Engenharia de Software | Paraná**
 
-[GitHub](https://github.com/ojoaobento) | [LinkedIn](https://www.linkedin.com/in/ojoaobento)
+<p align="center">
+  <a href="https://github.com/ojoaobento">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ojoaobento">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40"/>
+  </a>
+</p>
 
 Sou estudante de Engenharia de Software na UNICV, com foco em desenvolvimento de software, infraestrutura em nuvem e gestão de dados. Atualmente, atuo como estagiário na Compass UOL, onde aplico e aprimoro minhas habilidades em C, Java, SQL, Python, PySpark, AWS Cloud, Git e GitHub por meio de projetos práticos e desafios pessoais.
 
