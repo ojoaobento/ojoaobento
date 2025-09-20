@@ -46,7 +46,7 @@ Sou estudante de Engenharia de Software, com foco em desenvolvimento de software
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
     width="40" title="Linguagem C" style="padding-right:10px;"
 />
 
@@ -66,7 +66,7 @@ Sou estudante de Engenharia de Software, com foco em desenvolvimento de software
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"   width="40" style="filter: invert(24%) sepia(98%) saturate(2095%) hue-rotate(183deg) brightness(89%) contrast(97%);"
     width="40" title="Linguagem C" style="padding-right:10px;"
 />
 
