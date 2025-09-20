@@ -2,12 +2,12 @@
 
 **Estudante de Engenharia de Software | Paraná**
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ojoaobento">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" style="color:#333333"/>
   </a>
   <a href="https://www.linkedin.com/in/ojoaobento">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="color:#0077B5"/>
   </a>
 </p>
 
