@@ -1,6 +1,9 @@
 # João Victor Bento
 
-Sou **estudante de Engenharia de Software** com foco em **desenvolvimento de software, infraestrutura em nuvem e gestão de dados**. Atualmente, estou aprimorando minhas habilidades em **C, Java, SQL, Python, PySpark, AWS Cloud, Git e GitHub** por meio de projetos pessoais e desafios práticos.
+**Estudante de Engenharia de Software | Paraná**
+[GitHub](!https://github.com/ojoaobento) | [LinkedIn](!https://www.linkedin.com/in/ojoaobento)
+
+Sou estudante de Engenharia de Software na UNICV, com foco em desenvolvimento de software, infraestrutura em nuvem e gestão de dados. Atualmente, atuo como estagiário na Compass UOL, onde aplico e aprimoro minhas habilidades em C, Java, SQL, Python, PySpark, AWS Cloud, Git e GitHub por meio de projetos práticos e desafios pessoais.
 
 - 🎓 Estudante de Engenharia de Software – UNICV
 - 💼 Estagiário – Compass UOL
