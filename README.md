@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Sou estudante de Engenharia de Software na UNICV, com foco em desenvolvimento de software, infraestrutura em nuvem e gestão de dados. Atualmente, atuo como estagiário na Compass UOL, onde aplico e aprimoro minhas habilidades por meio de projetos práticos e desafios pessoais.
+Sou estudante de Engenharia de Software na UNICV, em maringá-pr, com foco em desenvolvimento de software, infraestrutura em nuvem e gestão de dados. Atualmente, atuo como estagiário na Compass UOL, onde aplico e aprimoro minhas habilidades por meio de projetos práticos e desafios pessoais.
 
 - 🎓 Estudante de Engenharia de Software – UNICV
 - 💼 Estagiário – Compass UOL
