@@ -33,8 +33,6 @@ Sou estudante de Engenharia de Software na UNICV, em maringá-pr, com foco em de
 
 ---
 
-# Estatísticas 
-
 <p>
   <img 
     align="left" 
